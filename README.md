@@ -1,6 +1,6 @@
 # Toko JS
 # LC ECommerce Website
-![tokoptk](/frontend/images/tokolc.png)
+![tokoptk](/frontend/images/tokoptk.PNG)
 
 # JavaScript Tutorial - Full ECommerce in 7 Hours [2021]
 
