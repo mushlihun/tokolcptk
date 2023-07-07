@@ -27,8 +27,8 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/node-javascript-ecommerce.git
-$ cd node-javascript-ecommerce
+$ git clone https://github.com/mushlihun/tokolcptk.git
+$ cd tokolcptk
 ```
 
 ### 2. Setup MongoDB
